@@ -1,0 +1,4 @@
+Function,Size Model Path,Size RMSE
+mlp_regression,./model/mlp_model_size.pkl,0.7457851009521306
+svr_regression,./model/svr_model_size.pkl,0.7554750719513449
+linear_regression,./model/linear_model_size.pkl,0.7593951520333333

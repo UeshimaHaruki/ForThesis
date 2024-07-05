@@ -1,0 +1,3 @@
+del_adj_rupture: True
+get_no_retreat: True
+get_no_complication: True

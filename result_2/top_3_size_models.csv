@@ -1,0 +1,2 @@
+Function,Size Model Path,Size RMSE
+0.5825487972448298,./model/rf_model_length.pkl,2.4852734238941134

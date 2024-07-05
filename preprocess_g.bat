@@ -1,0 +1,2 @@
+python preprocess.py -path_input ./dataset/subdataset/medid_2_v1_typeG/experiment.csv -path_outputdir ./dataset/subdataset/preprocessed_data/medid_2_v1_typeG
+python preprocess.py -path_input ./dataset/subdataset/medid_1_v8_typeG/experiment.csv -path_outputdir ./dataset/subdataset/preprocessed_data/medid_1_v8_typeG

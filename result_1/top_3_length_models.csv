@@ -1,0 +1,4 @@
+Function,Length Model Path,Length RMSE
+rf_regression,./model/rf_model_length.pkl,3.579639715289374
+lgbm_regression,./model/lgbm_model_length.pkl,3.623942400933201
+linear_regression,./model/linear_model_length.pkl,3.6537208459176496

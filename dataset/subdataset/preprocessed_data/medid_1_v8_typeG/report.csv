@@ -1,0 +1,52 @@
+0,1,2
+Number of dropped data (2 morph. missing),13,"(1910, 266)"
+Number of fillna width,2,"(1910, 266)"
+Number of fillna neck,31,"(1910, 266)"
+Number of fillna depth,46,"(1910, 266)"
+Number of fillna volume,0,"(1910, 266)"
+Number of zero volume,46,"(1910, 266)"
+Final shape(drop aneu. depth),---,"(1910, 265)"
+Number of Aneu_height_label nan,0,"(1910, 265)"
+Number of new aneu width label (0 / 1 / 2),844 / 597 / 293 / 176,"(1910, 265)"
+Final shape(drop aneu height label 3),176,"(1734, 265)"
+"Number of outlier : Aneu_neck 
+         ID  Aneu_neck
+105    206       20.0
+552    910       11.0
+686   1104       12.5
+916   1413       12.2
+1023  1558       11.8
+1262  1864       11.0 
+ [Attention] 徐々に削れていることに注意",6,"(1734, 265)"
+"Number of outlier : Aneu_width 
+       ID  Aneu_width
+39    84        14.0
+100  201        12.8
+156  295        12.8
+530  875        12.5 
+ [Attention] 徐々に削れていることに注意",4,"(1728, 265)"
+"Number of outlier : Aneu_height 
+ Empty DataFrame
+Columns: [ID, Aneu_height]
+Index: [] 
+ [Attention] 徐々に削れていることに注意",0,"(1724, 265)"
+"Number of outlier : Aneu_volume 
+         ID  Aneu_volume
+2        4   500.121930
+71     152   642.369522
+81     176   499.812640
+92     191   489.274800
+155    293   510.639360
+264    463   603.021300
+305    521   610.563022
+335    566   532.985252
+516    851   635.506170
+522    865   520.769000
+650   1049   520.769000
+810   1273   578.120053
+1079  1626   492.505860
+1107  1663   558.568320
+1213  1802   529.095233
+1311  1926   476.363120 
+ [Attention] 徐々に削れていることに注意",16,"(1724, 265)"
+Final shape(drop outlier),---,"(1708, 265)"
